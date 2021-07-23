@@ -1,0 +1,57 @@
+@font-face {
+    font-family: 'work_sansregular';
+    src: url('../fonts/worksans-regular-webfont.woff2') format('woff2'),
+         url('../fonts/worksans-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'WorkSansSemiBold';
+    src: url('../fonts/WorkSansSemiBold.eot');
+    src: url('../fonts/WorkSansSemiBold.eot') format('embedded-opentype'),
+         url('../fonts/WorkSansSemiBold.woff2') format('woff2'),
+         url('../fonts/WorkSansSemiBold.woff') format('woff'),
+         url('../fonts/WorkSansSemiBold.ttf') format('truetype'),
+         url('../fonts/WorkSansSemiBold.svg#WorkSansSemiBold') format('svg');
+}
+@font-face {
+    font-family: 'WorkSansLight';
+    src: url('../fonts/WorkSansLight.eot');
+    src: url('../fonts/WorkSansLight.eot') format('embedded-opentype'),
+         url('../fonts/WorkSansLight.woff2') format('woff2'),
+         url('../fonts/WorkSansLight.woff') format('woff'),
+         url('../fonts/WorkSansLight.ttf') format('truetype'),
+         url('../fonts/WorkSansLight.svg#WorkSansLight') format('svg');
+}
+
+
+@font-face {
+    font-family: 'OpenSansRegular';
+    src: url('../fonts/opensans-regular.eot');
+    src: url('../fonts/opensans-regular.eot') format('embedded-opentype'),
+         url('../fonts/opensans-regular.woff') format('woff'),
+         url('../fonts/opensans-regular.ttf') format('truetype'),
+         url('../fonts/opensans-regular.svg#OpenSansRegular') format('svg');
+}
+
+@font-face {
+    font-family: 'CenturyGothic';
+    src: url('../fonts/CenturyGothic.eot');
+    src: url('../fonts/CenturyGothic.eot') format('embedded-opentype'),
+         url('../fonts/CenturyGothic.woff2') format('woff2'),
+         url('../fonts/CenturyGothic.woff') format('woff'),
+         url('../fonts/CenturyGothic.ttf') format('truetype'),
+         url('../fonts/CenturyGothic.svg#CenturyGothic') format('svg');
+}
+
+@font-face {
+    font-family: 'Market_Deco';
+    src: url('../fonts/Market_Deco.eot');
+    src: url('../fonts/Market_Deco.eot') format('embedded-opentype'),
+         url('../fonts/Market_Deco.woff2') format('woff2'),
+         url('../fonts/Market_Deco.woff') format('woff'),
+         url('../fonts/Market_Deco.ttf') format('truetype'),
+         url('../fonts/Market_Deco.svg#Market_Deco') format('svg');
+}

@@ -1,0 +1,1 @@
+<div><img src="unauthorized.jpeg" alt="access denied" /></div>

@@ -1,0 +1,365 @@
+/*responsinator screen width(320px,  568px, 375px, 667px, 414px,  736px,  384px, 600px, 768px, 1024px)*/
+
+@media (max-width: 1200px) {
+	 
+    
+}
+
+@media (max-width: 1199px) {
+	 
+    
+}
+
+/*responsinator screen size*/
+@media (max-width: 1024px) {
+	 
+    
+}
+/************************************************@media (max-width: 1024px)************************************************/
+
+
+
+
+@media (max-width: 992px) {
+#navbarSupportedContent {
+	background: #87cf73;
+}
+.menu {
+	margin: 0 auto !important;
+	display: block;
+}
+.menu > li > a {
+	text-align: center;
+}
+.dropdown-menu {
+	left: 50%;
+	transform: translateX(-50%) !important;
+}
+}
+/************************************************@media (max-width: 992px)************************************************/
+
+
+
+
+
+@media (max-width: 991px) {
+
+}
+/************************************************@media (max-width: 991px)************************************************/
+
+
+
+
+
+@media (max-width: 768px) {
+p, h1, h2, h3, h4, h5, h6 {
+	text-align: center !important;
+}
+p {
+	font-size: 0.85rem !important;
+}
+
+.logo, .ph-email-membr-btn {
+	float: none;
+	width: 100%;
+	text-align: center;
+}
+.welcome-sec .col-sm-3, .welcome-sec .col-sm-9 {
+	-ms-flex: 0 0 100%;
+	flex: 0 0 100%;
+	max-width: 100%;
+	text-align: center;
+}
+.widget-sec ul li {
+	float: left;
+	width: 33.3333%;
+	min-height: 300px;
+}
+.news-media-sec .col-sm-7, .news-media-sec .col-sm-5 {
+	-ms-flex: 0 0 100%;
+	flex: 0 0 100%;
+	max-width: 100%;
+}
+#newsmedia .item .col-sm-3, #newsmedia .item .col-sm-9 {
+	-ms-flex: 0 0 100%;
+	flex: 0 0 100%;
+	max-width: 100%;
+}
+.newsmedia-text h4 {
+	color: #60BB46;
+	font-size: 1rem;
+	margin: 1rem 0;
+}
+.news-media-heading h4::before {
+	left: 50%;
+	transform: translateX(-50%);
+}
+.newsmedia-readmore {
+	text-align: center;
+}
+.footer-top .col-sm-5, .footer-top .col-sm-4, .footer-top .col-sm-3{
+	-ms-flex: 0 0 100%;
+	flex: 0 0 100%;
+	max-width: 100%;
+	text-align: center;
+}
+.footer-heading::before {
+	border-bottom: 1px solid #FFF;
+	bottom: 0;
+	content: "";
+	position: absolute;
+	width: 50%;
+	left: 50%;
+	transform: translateX(-50%);
+}
+.footer-heading {
+	padding: 1rem 0 0.8rem;
+}
+
+.breadcrumb-sec {
+	width: 100%;
+}
+.breadcrumb-sec .breadcrumb li a {
+	font-size: 1rem;
+}
+.climate-change-pic {
+	float: none;
+	margin-top: 0;
+	width: 100%;
+}
+.climate-change-text {
+	min-height: 100%;
+	padding: 1rem;
+	margin: 0;
+}
+.climate-change-pic img {
+	box-shadow: 7px 7px 10px #B6B6B6;
+	display: inline-block;
+}
+.solutions-sec .col-sm-4 {
+	-ms-flex: 0 0 100%;
+	flex: 0 0 100%;
+	max-width: 100%;
+	text-align: center;
+}
+.solution {
+	margin: 1rem 0;
+}
+.solution-pic {
+	float: none;
+	width: 100%;
+}
+.solution-heading {
+	float: none;
+	padding: 0;
+	width: 100%;
+}
+.solution-heading h4 {
+	padding: 1rem 0;
+}
+
+/*leadership*/
+.leadership-sec .col-sm-2, .leadership-sec .col-sm-4 {
+	-ms-flex: 0 0 100%;
+	flex: 0 0 100%;
+	max-width: 100%;
+	text-align: center;
+}
+.triangle-left::before {
+	content: none;
+}
+.leadership-text.triangle-left {
+	margin: 0 0 2rem;
+	height: auto;
+}
+	
+/*resources*/
+.resources-sec .col-sm-4, .upcoming-events-sec .col-sm-4, .upcoming-events-sec .col-sm-8 {
+	-ms-flex: 0 0 100%;
+	flex: 0 0 100%;
+	max-width: 100%;
+}
+.view-events-btn {
+	text-align: center !important;
+}
+.all-upcoming-events-listing .upcoming-text {
+  float: none !important;
+  padding: 0;
+  width: 100% !important;
+}
+.upcoming-text {
+	float: none;
+	width: 100%;
+	padding: 0 0 0 21px;
+}
+.blog-sec .col-sm-4, .blog-details-sec .col-sm-4, .blog-details-sec .col-sm-8 {
+	-ms-flex: 0 0 100%;
+	flex: 0 0 100%;
+	max-width: 100%;
+}
+.blog-text {
+	text-align: center;
+}
+.popular-post {
+	display: block;
+}
+.user-comment-form .col-md-6 {
+	text-align: center !important;
+}
+.comments-of-users-listing-sec h5 {
+	margin: 1rem 0;
+}
+
+}
+/************************************************@media (max-width: 768px)************************************************/
+
+
+
+
+
+
+@media (max-width: 767px) {
+
+}
+/************************************************@media (max-width: 767px)************************************************/
+
+
+
+
+
+@media (max-width: 736px) {
+	
+	
+}
+/************************************************@media (max-width: 736px)************************************************/
+
+
+
+
+@media (max-width: 667px) {
+	
+	
+}
+/************************************************@media (max-width: 667px)************************************************/
+
+
+
+@media (max-width: 600px) {
+		 
+
+
+}
+/************************************************@media (max-width: 600px)************************************************/
+
+
+
+
+@media (max-width: 575px) {
+.widget-sec ul li {
+	float: none;
+	width: 100%;
+	min-height: 100%;
+}
+.sc {
+	text-align: center;
+}
+.user-pic, .user-comment-part {
+	float: none;
+	width: 100%;
+}
+.read-more2 {
+	text-align: center;
+}
+.news-inner-right > i, .news-inner-right > span {
+  text-align: center;
+  display: block;
+}
+.news-inner-right > p {
+  height: auto;
+}
+}
+/************************************************@media (max-width: 575px)************************************************/
+
+
+
+
+@media (max-width: 480px) {
+.more-information-sec1 a {
+	font-size: 0.8rem;
+}
+.news-media-heading h4::before {
+	border-bottom: 0px solid #143F91;
+}
+}
+/************************************************@media (max-width: 480px)************************************************/
+
+
+
+
+
+@media (max-width: 414px) {
+
+}
+/************************************************@media (max-width: 414px)************************************************/
+
+
+
+
+
+@media (max-width: 384px) {
+.offer-text span {
+	font-size: 0.7rem;
+	padding: 0 0.5rem;
+}
+.ph-email-membr-btn ul li {
+	display: block;
+	padding: 0.5rem 0;
+}
+.logo, .ph-email-membr-btn {
+	float: none;
+	width: 100%;
+	text-align: center;
+	padding: 0;
+}	
+.ph-email-membr-btn ul li:last-child a {
+	font-size: 0.75rem;
+	padding: 0.4rem 0.5rem;
+}
+	
+
+
+}
+/************************************************@media (max-width: 384px)************************************************/
+
+
+
+
+
+@media (max-width: 375px) {
+	
+   
+
+}
+/************************************************@media (max-width: 375px)************************************************/
+
+
+
+
+
+@media (max-width: 360px) {
+
+}
+/************************************************@media (max-width: 360px)************************************************/
+
+
+
+
+@media (max-width: 320px) {
+	
+   
+
+}
+/************************************************@media (max-width: 320px)************************************************/
+	
+	
+/*responsinator screen size*/
